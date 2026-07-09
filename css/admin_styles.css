@@ -32,7 +32,7 @@ body {
     justify-content: center; /* Centramos el logo */
     align-items: center;
     background-color: white;
-    border-bottom: 1px solid rgba(255,255,255,0.1);
+    border-bottom: 1px solid git rgba(255, 255, 255, 0.168);
 }
 
 /* Nueva clase para controlar el tamaño del logo */
